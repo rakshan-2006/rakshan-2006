@@ -4,7 +4,7 @@
 🌌 Skywatcher by night | 💻 Debugging life one semicolon at a time
 
 - 🔧 Currently building my fundamentals in Python and C
-- 🚀 Exploring the world of Web Dev and Automation
+- 🚀 Exploring the world of Web Dev 
 - 📚 Always learning, always curious
 
 ---
@@ -28,8 +28,8 @@
 
 ## 📊 GitHub Stats
 
-![Rakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshanr2006&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshanr2006&layout=compact&theme=midnight-purple)
+![Rakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshan-2006&show_icons=true&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshan-2006&layout=compact&theme=midnight-purple)
 
 ---
 
