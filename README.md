@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rakshan R
 
 🎓 2nd year CSE @ PESU  
-🌌 Skywatcher by night | 💻 Debugging life one semicolon at a time
+💻 Debugging life one semicolon at a time
 
 - 🔧 Currently building my fundamentals in Python and C
 - 🚀 Exploring the world of Web Dev 
